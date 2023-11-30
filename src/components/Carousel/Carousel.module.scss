@@ -1,0 +1,26 @@
+
+
+.gallery-list {
+  position: relative;
+
+  overflow: hidden;
+
+  display: flex;
+
+}
+
+.gallery-item {
+  a {
+    padding: 0 16px;
+
+    background-size: cover;
+    background-position: center;
+    width: 980px;
+    margin: 0 auto;
+    height: 100%;
+  }
+}
+
+.gallery-item__button-play {
+
+}
